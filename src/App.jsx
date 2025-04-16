@@ -1,0 +1,1 @@
+export default function App() { return <h1>Post4Me</h1>; }
